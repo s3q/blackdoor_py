@@ -1,7 +1,6 @@
 import socket
 import threading
 from time import sleep
-from turtle import goto
 from settings import colors
 from termcolor import colored
 import os 

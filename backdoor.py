@@ -3,9 +3,6 @@ import socket
 import subprocess
 import sys
 from time import sleep
-import argparse
-import shlex
-import textwrap
 import threading
 
 target_host = "192.168.1.36"
